@@ -5,7 +5,7 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 
 ### Aim
 
-Fleets of heterogeneous robots, such as ground vehicles and aerial vehicles, are deployed to accomplish tasks that are otherwise too inefficient or even infeasible for a single robot. Not only the overall efficiency of the team can be significantly improved by allowing the robots to move and act; but also, the capabilities of the team can be greatly extended by enabling multiple robots to directly collaborate on a task. However, their task and motion coordination are often subject to various constraints, including geometric constraints from the workspace; dynamic constraints from the robot model; and temporal constraints from the task specifications. How to address these constraints in a safe, efficient and real-time way remains an active and challenging research area. This workspace aims to bring experts in related domain (from both control and robotics background) together to brain-storm about these topics.
+Fleets of heterogeneous robots, such as ground vehicles and aerial vehicles, are deployed to accomplish tasks that are otherwise too inefficient or even infeasible for a single robot. Not only the overall efficiency of the team can be significantly improved by allowing the robots to move and act; but also, the capabilities of the team can be greatly extended by enabling multiple robots to directly collaborate on a task. However, their task and motion coordination are often subject to various constraints, including geometric constraints from the workspace; dynamic constraints from the robot model; and temporal constraints from the task specifications. How to address these constraints in a safe, efficient and real-time way remains an active and challenging research area. This workshop aims to bring experts in related domain (from both control and robotics background) together to brain-storm about these topics.
 
 Particularly, we are interested in the following questions:
 
@@ -17,12 +17,12 @@ Particularly, we are interested in the following questions:
 - Motion coordination
     1. How to deal with geometric and dynamic constraints?
     2. How to optimize over a sequence of parameterized controllers?
-    3. What if the motion planning is computational costly?
+    3. What if the motion planning is computationally expensive?
 
 - Task and motion coordination
     1. How to ensure inter-robot communications? 
     2. Should temporal constraints be handled at both levels?
-    3. How to close the loop online, periodic or event-triggered?
+    3. How to close the loop online during execution, periodic or event-triggered?
     4. How could learning help?
 
 
@@ -104,17 +104,6 @@ Particularly, we are interested in the following questions:
   </tr>
 </table>
 
-
-### Acknowledgements
-
-This workshop is partially supported by the National Natural Science Foundation
-    of China (NSFC) under grants 62203017, U2241214;
-    the Fundamental Research Funds for the central universities.
-
-
-### Contact
-
-Meng Guo, meng.guo@pku.edu.cn
 
 <style>
     h1,h2 {
