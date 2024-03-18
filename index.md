@@ -12,15 +12,15 @@ Particularly, we are interested in the following questions:
 - Task coordination
     1. What are the challenges for task coordination of multi-robot systems, e.g., combinatorial complexity, marginal payoff, and temporal ordering of tasks?
     2. How to estimate the cost of a sub-team performing a task during planning?
-	  3. When and how to adapt within dynamic/adversarial environments?
+    3. When and how to adapt within dynamic/adversarial environments?
 
 - Motion coordination
     1. How to deal with geometric and dynamic constraints?
-	  2. How to optimize over a sequence of parameterized controllers?
+    2. How to optimize over a sequence of parameterized controllers?
     3. What if the motion planning is computational costly?
 
 - Task and motion coordination
-	  1. How to ensure inter-robot communications? 
+    1. How to ensure inter-robot communications? 
     2. Should temporal constraints be handled at both levels?
     3. How to close the loop online, periodic or event-triggered?
     4. How could learning help?
@@ -58,7 +58,7 @@ Particularly, we are interested in the following questions:
   </tr>
 </table>
 
-<table style="width: 60%;">
+<table style="width: 67%;">
   <tr>
     <td width="30%" style="text-align: center; vertical-align: middle; border: none;" >
         <img src="docs/assets/images/speakers/rozo.png" alt= "">
@@ -85,7 +85,7 @@ Particularly, we are interested in the following questions:
 ### Organizers
 
 
-<table style="width: 60%;">
+<table style="width: 67%;">
   <tr>
     <td width="30%" style="text-align: center; vertical-align: middle; border: none;" >
         <img src="docs/assets/images/meng.png" alt= "" >
