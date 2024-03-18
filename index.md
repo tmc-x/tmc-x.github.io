@@ -88,7 +88,7 @@ Particularly, we are interested in the following questions:
 <table style="width: 67%;">
   <tr>
     <td width="30%" style="text-align: center; vertical-align: middle; border: none;" >
-        <img src="docs/assets/images/meng0.png" alt= "" >
+        <img src="docs/assets/images/meng.png" alt= "" >
     </td>
     <td width="30%" style="text-align: center; vertical-align: middle; border: none;">
         <img src="docs/assets/images/siyuan.png" alt= "" >
