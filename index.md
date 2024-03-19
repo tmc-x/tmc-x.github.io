@@ -20,7 +20,7 @@ Particularly, we are interested in the following questions:
     3. What if the motion planning is computationally expensive?
 
 - Task and motion coordination
-    1. How to ensure inter-robot communications? 
+    1. How to ensure inter-robot communications?
     2. Should temporal constraints be handled at both levels?
     3. How to close the loop online during execution, periodic or event-triggered?
     4. How could learning help?
@@ -39,7 +39,7 @@ Particularly, we are interested in the following questions:
         <img src="docs/assets/images/speakers/pedro.png" alt= "">
     </td>
     <td width="30%" style="text-align: center; vertical-align: middle; border: none;">
-        <img src="docs/assets/images/speakers/yulong.png" alt= "" >
+        <img src="docs/assets/images/speakers/bayu.jpg" alt= "" >
     </td>
   </tr>
   <tr>
@@ -52,16 +52,19 @@ Particularly, we are interested in the following questions:
 	  <b>Pedro U. Lima</b>   </a>
 	  <br>Universidade de Lisboa, Portugal</td>
     <td style="text-align: center; vertical-align: top; border: none;">
-	<a href="https://sites.google.com/view/yulongg/home" target="_blank">
-	<b>Yulong Gao</b> 	      </a>
-	<br>Imperial College London, UK</td>
+	<a href="https://scholar.google.com/citations?user=DnjQSC4AAAAJ&hl" target="_blank">
+	<b>Bayu Jayawardhana</b> 	      </a>
+	<br>University of Groningen, Netherlands</td>
   </tr>
 </table>
 
-<table style="width: 67%;">
+<table style="width: 100%;">
   <tr>
     <td width="30%" style="text-align: center; vertical-align: middle; border: none;" >
         <img src="docs/assets/images/speakers/rozo.png" alt= "">
+    </td>
+        <td width="30%" style="text-align: center; vertical-align: middle; border: none;">
+        <img src="docs/assets/images/speakers/yulong.png" alt= "" >
     </td>
     <td width="30%" style="text-align: center; vertical-align: middle; border: none;" >
         <img src="docs/assets/images/speakers/chris.png" alt= "">
@@ -72,6 +75,10 @@ Particularly, we are interested in the following questions:
 	<a href="https://leonelrozo.weebly.com" target="_blank">
 	<b>Leonel Rozo</b> </a>
 	<br>Bosch center for AI; Universität Tübingen, Germany </td>
+    <td style="text-align: center; vertical-align: top; border: none;">
+	<a href="https://sites.google.com/view/yulongg/home" target="_blank">
+	<b>Yulong Gao</b> 	      </a>
+	<br>Imperial College London, UK</td>
     <td style="text-align: center; vertical-align: top; border: none;">
 	<a href="https://cverginis.github.io" target="_blank">
 	<b>Christos Verginis</b> </a>

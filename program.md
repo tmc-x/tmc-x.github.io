@@ -5,14 +5,14 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 
 ### Schedule (Tentative)
 
-| 08:20 to 08:30 | Opening and introduction   | 
+| 08:20 to 08:30 | Opening and introduction   |
 | 08:30 to 09:00 | **Multi-agent Coordination using Behavior Trees**   |
 | 09:00 to 09:30 | **TBD**   |
 | 09:30 to 10:00 | **Task and Motion Planning of Articulated Robots with Uncertain Dynamics**   |
 | 10:00 to 10:30 | Coffee break |
 | 10:30 to 11:00 | **Distribution-based CTL Model Checking and its Application to Multi-Agent Control**   |
 | 11:00 to 11:30 | **TBD**   |
-| 11:30 to 11:50 | **Panel Discussion**   |
+| 11:30 to 11:50 | **TBD**   |
 | 11:50 to 12:00 | Closing remark  |
 
 
@@ -38,11 +38,20 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 **Bio**: Pedro U. Lima got his Ph.D. (1994) in Electrical Engineering at RPI, NY, USA. Currently, he is a Professor at Instituto Superior Técnico, Universidade de Lisboa, and a researcher of the Institute for Systems and Robotics, where he is the coordinator of the Intelligent Robots and Systems group and Deputy Vice-President for Scientific Affairs. He is the co-author of two books, and member of the Editorial Board of the Elsevier’s Journal of Robotics and Autonomous Systems. His research interests lie in the areas of discrete event models of robot tasks and planning under uncertainty, with applications to networked robot systems. Pedro Lima was a Trustee of the RoboCup Federation (2003-2012), and was the General Chair of RoboCup2004, held in Lisbon. He was President and founding member of the Portuguese Robotics Society, was National Delegate to EU and ESA Space Robotics programs and was awarded a 6-month Chair of Excellence at the Universidad Carlos III de Madrid, Spain in 2010. He has also been very active in the promotion of Science and Technology to the society, through the organization of Robotics events in Portugal, including the Portuguese Robotics Open since 2001.
 
 
+#### Bayu Jayawardhana (Professor, University of Groningen, Netherlands)
+
+**Title**: TBD
+
+**Abstract**: TBD
+
+**Bio**: Bayu Jayawardhana (Senior Member, IEEE) received the B.Sc. degree in electrical and electronics engineering from the Institut Teknologi Bandung, Bandung, Indonesia, in 2000, the M.Eng. degree in electrical and electronics engineering from the Nanyang Technological University, Singapore, in 2003, and the Ph.D. degree in electrical and electronics engineering from Imperial College London, London, U.K., in 2006.,He is currently a Professor of Mechatronics and Control of Nonlinear Systems with the Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands. He was with Bath University, Bath, U.K., and with Manchester Interdisciplinary Biocentre, University of Manchester, Manchester, U.K. His research interests include the analysis of nonlinear systems, systems with hysteresis, mechatronics, systems, and synthetic biology.,Prof. Jayawardhana is a Subject Editor for the International Journal of Robust and Nonlinear Control, an Associate Editor for the European Journal of Control, and a member of the Conference Editorial Board of the IEEE Control Systems Society.
+
+
 #### Christos Verginis (Assistant Professor, Uppsala Uni., Sweden)
 
-**Title**: **Task and Motion Planning of Articulated Robots with Uncertain Dynamics** 
+**Title**: **Task and Motion Planning of Articulated Robots with Uncertain Dynamics**
 
-**Abstract**: Motion and task planning constitutes fundamental problems when it comes to control of autonomous systems. Algorithms often operate at different levels of abstractions, reasoning about high-level task plans as well as collision-free motion control schemes. The problem is significantly complicated when taking into account articulated systems with uncertain dynamics. Articulated systems, such as robotic manipulators, often have to navigate among narrow passages in obstacle-cluttered workspaces. At the same time, such systems usually evolve subject to highly nonlinear dynamics that cannot be accurately modelled, contain a large variety of uncertain dynamic parameters, and suffer from unknown exogenous disturbances. In this talk, I will talk about how we can overcome such issues and develop motion planners that solve the motion-planning problem for articulated systems with uncertain dynamics. I will further elaborate on how we can use such results on task-planning subject to tasks expressed as timed temporal logic specifications. 
+**Abstract**: Motion and task planning constitutes fundamental problems when it comes to control of autonomous systems. Algorithms often operate at different levels of abstractions, reasoning about high-level task plans as well as collision-free motion control schemes. The problem is significantly complicated when taking into account articulated systems with uncertain dynamics. Articulated systems, such as robotic manipulators, often have to navigate among narrow passages in obstacle-cluttered workspaces. At the same time, such systems usually evolve subject to highly nonlinear dynamics that cannot be accurately modelled, contain a large variety of uncertain dynamic parameters, and suffer from unknown exogenous disturbances. In this talk, I will talk about how we can overcome such issues and develop motion planners that solve the motion-planning problem for articulated systems with uncertain dynamics. I will further elaborate on how we can use such results on task-planning subject to tasks expressed as timed temporal logic specifications.
 
 **Bio**: Christos Verginis is an assistant Department of Electrical Engineering, Uppsala University, Sweden. He received the MEng degree in Electrical and Computer Engineering and the MSc degree in Automatic Control Systems and Robotics both from National Technical University of Athens (NTUA) in 2013 and 2015, respectively. He received the PhD in Electrical Engineering from KTH Royal Institute of Technology (Stockholm) under the guidance of Prof. Dimos Dimarogonas and Prof. Danica Kragic. His PhD Thesis involved planning and control of multi-robot manipulator-endowed systems. His PhD thesis was awarded the EECI PhD award on Control for Complex and Heterogeneous Systems 2021 and was selected to be one of the finalists for the EuRobotics Georges Giralt PhD award 2021.
 
