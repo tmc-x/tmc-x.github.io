@@ -20,7 +20,7 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 ### Keynote Talks
 
 
-#### Petter Ögren (Professor, KTH Sweden)
+### Petter Ögren (Professor, KTH Sweden)
 
 **Title**: **Multi-agent Coordination using Behavior Trees**
 
@@ -29,7 +29,7 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 **Bio**: Petter Ögren was born in Stockholm, Sweden, in 1974. He received the M.S. degree in engineering physics and the Ph.D. degree in applied mathematics from the Royal Institute of Technology (KTH), Stockholm, Sweden, in 1998 and 2003, respectively. In the fall of 2001, he visited the Mechanical Engineering Department, Princeton University, Princeton, NJ. From 2003 to 2012 he worked as a senior scientist and deputy research director in Autonomous Systems at the Swedish Defence Research Agency (FOI). In 2013 he started as an Associate Professor at KTH, and since 2018, he is a Professor at the division of Robotics, Perception and Learning (RPL) at KTH.
 
 
-#### Pedro U. Lima (Professor, Universidade de Lisboa, Portugal)
+### Pedro U. Lima (Professor, Universidade de Lisboa, Portugal)
 
 **Title**: TBD
 
@@ -38,7 +38,7 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 **Bio**: Pedro U. Lima got his Ph.D. (1994) in Electrical Engineering at RPI, NY, USA. Currently, he is a Professor at Instituto Superior Técnico, Universidade de Lisboa, and a researcher of the Institute for Systems and Robotics, where he is the coordinator of the Intelligent Robots and Systems group and Deputy Vice-President for Scientific Affairs. He is the co-author of two books, and member of the Editorial Board of the Elsevier’s Journal of Robotics and Autonomous Systems. His research interests lie in the areas of discrete event models of robot tasks and planning under uncertainty, with applications to networked robot systems. Pedro Lima was a Trustee of the RoboCup Federation (2003-2012), and was the General Chair of RoboCup2004, held in Lisbon. He was President and founding member of the Portuguese Robotics Society, was National Delegate to EU and ESA Space Robotics programs and was awarded a 6-month Chair of Excellence at the Universidad Carlos III de Madrid, Spain in 2010. He has also been very active in the promotion of Science and Technology to the society, through the organization of Robotics events in Portugal, including the Portuguese Robotics Open since 2001.
 
 
-#### Bayu Jayawardhana (Professor, University of Groningen, Netherlands)
+### Bayu Jayawardhana (Professor, University of Groningen, Netherlands)
 
 **Title**: TBD
 
@@ -47,7 +47,7 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 **Bio**: Bayu Jayawardhana (Senior Member, IEEE) received the B.Sc. degree in electrical and electronics engineering from the Institut Teknologi Bandung, Bandung, Indonesia, in 2000, the M.Eng. degree in electrical and electronics engineering from the Nanyang Technological University, Singapore, in 2003, and the Ph.D. degree in electrical and electronics engineering from Imperial College London, London, U.K., in 2006.,He is currently a Professor of Mechatronics and Control of Nonlinear Systems with the Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands. He was with Bath University, Bath, U.K., and with Manchester Interdisciplinary Biocentre, University of Manchester, Manchester, U.K. His research interests include the analysis of nonlinear systems, systems with hysteresis, mechatronics, systems, and synthetic biology.,Prof. Jayawardhana is a Subject Editor for the International Journal of Robust and Nonlinear Control, an Associate Editor for the European Journal of Control, and a member of the Conference Editorial Board of the IEEE Control Systems Society.
 
 
-#### Christos Verginis (Assistant Professor, Uppsala Uni., Sweden)
+### Christos Verginis (Assistant Professor, Uppsala Uni., Sweden)
 
 **Title**: **Task and Motion Planning of Articulated Robots with Uncertain Dynamics**
 
@@ -64,7 +64,7 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 
 **Bio**: Yulong Gao received the B.E. degree in automation and the M.E. degree in control science and engineering from the Beijing Institute of Technology, Beijing, China, in 2013 and 2016, respectively, and the joint Ph.D. degree in electrical engineering from the KTH Royal Institute of Technology, Stockholm, Sweden, and Nanyang Technological University, Singapore, in 2021. He was a Visiting Student with the Department of Computer Science, University of Oxford, Oxford, U.K., in 2019. He is currently a Postdoctoral Researcher with KTH. His research interests include automatic verification, stochastic control, and model predictive control with application to safety-critical systems.
 
-#### Leonel Rozo (Lead Scientist, Bosch center for AI; Universität Tübingen, Germany)
+### Leonel Rozo (Lead Scientist, Bosch center for AI; Universität Tübingen, Germany)
 
 **Title**: TBD
 
