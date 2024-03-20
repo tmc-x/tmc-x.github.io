@@ -7,7 +7,7 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 
 | 08:20 to 08:30 | Opening and introduction   |
 | 08:30 to 09:00 | **Multi-agent Coordination using Behavior Trees**   |
-| 09:00 to 09:30 | **TBD**   |
+| 09:00 to 09:30 | **Solving Multiple Tasks of Heterogeneous Multi-Agent Systems Simultaneously by Distributed Control**   |
 | 09:30 to 10:00 | **Task and Motion Planning of Articulated Robots with Uncertain Dynamics**   |
 | 10:00 to 10:30 | Coffee break |
 | 10:30 to 11:00 | **Distribution-based CTL Model Checking and its Application to Multi-Agent Control**   |
@@ -40,11 +40,13 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 
 ### Bayu Jayawardhana (Professor, University of Groningen, Netherlands)
 
-**Title**: TBD
+**Title**: **Solving Multiple Tasks of Heterogeneous Multi-Agent Systems Simultaneously by Distributed Control**
 
-**Abstract**: TBD
 
-**Bio**: Bayu Jayawardhana (Senior Member, IEEE) received the B.Sc. degree in electrical and electronics engineering from the Institut Teknologi Bandung, Bandung, Indonesia, in 2000, the M.Eng. degree in electrical and electronics engineering from the Nanyang Technological University, Singapore, in 2003, and the Ph.D. degree in electrical and electronics engineering from Imperial College London, London, U.K., in 2006.,He is currently a Professor of Mechatronics and Control of Nonlinear Systems with the Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands. He was with Bath University, Bath, U.K., and with Manchester Interdisciplinary Biocentre, University of Manchester, Manchester, U.K. His research interests include the analysis of nonlinear systems, systems with hysteresis, mechatronics, systems, and synthetic biology.,Prof. Jayawardhana is a Subject Editor for the International Journal of Robust and Nonlinear Control, an Associate Editor for the European Journal of Control, and a member of the Conference Editorial Board of the IEEE Control Systems Society.
+**Abstract**: A team of mobile robots can be deployed to work collaboratively to solve multiple tasks simultaneously, such as formation keeping, motion tracking, localization and mapping, etc. While there have been significant progresses in the design of distributed controller for solving individual task, it remains a challenge to combine them so that multiple tasks can be solved simultaneously, without resorting to discrete-event or hybrid systems setting. In this talk, we review some of these standard distributed controllers and present recent results on the integration of these distributed control laws for achieving multiple tasks at the same time. Robustness analysis is presented, which includes the effect of heterogeneity in the sensing and actuation mechanism, as well as, in the distributed control law.
+
+
+**Bio**: Bayu Jayawardhana (Senior Member, IEEE) received the B.Sc. degree in electrical and electronics engineering from the Institut Teknologi Bandung, Bandung, Indonesia, in 2000, the M.Eng. degree in electrical and electronics engineering from the Nanyang Technological University, Singapore, in 2003, and the Ph.D. degree in electrical and electronics engineering from Imperial College London, London, U.K., in 2006. He is currently the scientific director of Engineering and Technology Institute Groningen at Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands and the scientific director of the Dutch Institute for Systems and Control. He is a fellow of Netherlands Academy of Engineering. His research interests include the analysis of nonlinear systems, systems with hysteresis, mechatronics, systems, and synthetic biology. 
 
 
 ### Christos Verginis (Assistant Professor, Uppsala Uni., Sweden)
