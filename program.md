@@ -6,13 +6,13 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 ### Schedule (Tentative)
 
 | 08:20 to 08:30 | Opening and introduction   |
-| 08:30 to 09:00 | **Multi-agent Coordination using Behavior Trees**   |
-| 09:00 to 09:30 | **Solving Multiple Tasks of Heterogeneous Multi-Agent Systems Simultaneously by Distributed Control**   |
-| 09:30 to 10:00 | **Planning Task and Motion Coordinated Execution from User Requests in Service Robots**   |
+| 08:30 to 09:00 | **Petter Ögren, Multi-agent Coordination using Behavior Trees**   |
+| 09:00 to 09:30 | **Pedro U. Lima, Planning Task and Motion Coordinated Execution from User Requests in Service Robots**  |
+| 09:30 to 10:00 | **Hector Garcia de Marina, Resilient Source Seeking with Robot Swarms**  |
 | 10:00 to 10:30 | Coffee break |
-| 10:30 to 11:00 | **Task and Motion Planning of Articulated Robots with Uncertain Dynamics**   |
-| 11:00 to 11:30 | **Distribution-based CTL Model Checking and its Application to Multi-Agent Control**   |
-| 11:30 to 11:50 | **Riemannian Flow-based Robot Learning of Dynamic Motions with Stability Guarantees**   |
+| 10:30 to 11:00 | **Christos Verginis, Task and Motion Planning of Articulated Robots with Uncertain Dynamics**   |
+| 11:00 to 11:30 | **Yulong Gao, Distribution-based CTL Model Checking and its Application to Multi-Agent Control**   |
+| 11:30 to 11:50 | **Leonel Rozo, Riemannian Flow-based Robot Learning of Dynamic Motions with Stability Guarantees**   |
 | 11:50 to 12:00 | Closing remark  |
 
 
@@ -38,12 +38,12 @@ title: Task and Motion Coordination under <br/> Geometric, Dynamic and <br/> Tem
 **Bio**: Pedro U. Lima got his Ph.D. (1994) in Electrical Engineering at RPI, NY, USA. Currently, he is a Professor at Instituto Superior Técnico, Universidade de Lisboa, and a researcher of the Institute for Systems and Robotics, where he is the coordinator of the Intelligent Robots and Systems group and Deputy Vice-President for Scientific Affairs. He is the co-author of two books, and member of the Editorial Board of the Elsevier’s Journal of Robotics and Autonomous Systems. His research interests lie in the areas of discrete event models of robot tasks and planning under uncertainty, with applications to networked robot systems. Pedro Lima was a Trustee of the RoboCup Federation (2003-2012), and was the General Chair of RoboCup2004, held in Lisbon. He was President and founding member of the Portuguese Robotics Society, was National Delegate to EU and ESA Space Robotics programs and was awarded a 6-month Chair of Excellence at the Universidad Carlos III de Madrid, Spain in 2010. He has also been very active in the promotion of Science and Technology to the society, through the organization of Robotics events in Portugal, including the Portuguese Robotics Open since 2001.
 
 
-### Bayu Jayawardhana (Professor, University of Groningen, Netherlands)
+### Hector Garcia de Marina (Assistant Professor, Universidad de Granada, Spain)
 
-**Title**: **Solving Multiple Tasks of Heterogeneous Multi-Agent Systems Simultaneously by Distributed Control**
+**Title**: **Resilient Source Seeking with Robot Swarms**
 
 
-**Abstract**: A team of mobile robots can be deployed to work collaboratively to solve multiple tasks simultaneously, such as formation keeping, motion tracking, localization and mapping, etc. While there have been significant progresses in the design of distributed controller for solving individual task, it remains a challenge to combine them so that multiple tasks can be solved simultaneously, without resorting to discrete-event or hybrid systems setting. In this talk, we review some of these standard distributed controllers and present recent results on the integration of these distributed control laws for achieving multiple tasks at the same time. Robustness analysis is presented, which includes the effect of heterogeneity in the sensing and actuation mechanism, as well as, in the distributed control law.
+**Abstract**: We present a solution for locating the source, or maximum, of an unknown scalar field using a swarm of mobile robots. Unlike relying on the traditional gradient information, the swarm determines an ascending direction to approach the source with arbitrary precision. The ascending direction is calculated from field strength measurements at the robot locations and their relative positions concerning the swarm centroid. Rather than focusing on individual robots, we focus the analysis on the density of robots per unit area to guarantee a more resilient swarm, i.e., the functionality remains even if individuals go missing or are misplaced during the mission. We reinforce the algorithm's robustness by providing sufficient conditions for the swarm shape so that the ascending direction is almost parallel to the gradient. The swarm can respond to an unexpected environment by morphing its shape and exploiting the existence of multiple ascending directions. Finally, we validate our approach numerically with hundreds of robots. The fact that a large number of robots with a generic formation always calculate an ascending direction compensates for the potential loss of individuals.
 
 
 **Bio**: Bayu Jayawardhana (Senior Member, IEEE) received the B.Sc. degree in electrical and electronics engineering from the Institut Teknologi Bandung, Bandung, Indonesia, in 2000, the M.Eng. degree in electrical and electronics engineering from the Nanyang Technological University, Singapore, in 2003, and the Ph.D. degree in electrical and electronics engineering from Imperial College London, London, U.K., in 2006. He is currently the scientific director of Engineering and Technology Institute Groningen at Faculty of Science and Engineering, University of Groningen, Groningen, The Netherlands and the scientific director of the Dutch Institute for Systems and Control. He is a fellow of Netherlands Academy of Engineering. His research interests include the analysis of nonlinear systems, systems with hysteresis, mechatronics, systems, and synthetic biology.

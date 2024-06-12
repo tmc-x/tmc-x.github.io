@@ -39,7 +39,7 @@ Particularly, we are interested in the following questions:
         <img src="docs/assets/images/speakers/pedro.png" alt= "">
     </td>
     <td width="30%" style="text-align: center; vertical-align: middle; border: none;">
-        <img src="docs/assets/images/speakers/bayu.jpg" alt= "" >
+        <img src="docs/assets/images/speakers/hector.png" alt= "" >
     </td>
   </tr>
   <tr>
@@ -52,9 +52,9 @@ Particularly, we are interested in the following questions:
 	  <b>Pedro U. Lima</b>   </a>
 	  <br>Universidade de Lisboa, Portugal</td>
     <td style="text-align: center; vertical-align: top; border: none;">
-	<a href="https://scholar.google.com/citations?user=DnjQSC4AAAAJ&hl" target="_blank">
-	<b>Bayu Jayawardhana</b> 	      </a>
-	<br>University of Groningen, Netherlands</td>
+	<a href="https://www.swarmsystemslab.eu" target="_blank">
+	<b>Héctor García de Marina</b> 	      </a>
+	<br>Universidad de Granada, Spain</td>
   </tr>
 </table>
 
